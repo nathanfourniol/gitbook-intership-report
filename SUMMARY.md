@@ -4,7 +4,8 @@
 
 ## INTRODUCTION
 
-* [Issues and Goals](introduction/acolor-bluerov2.md)
+* [The aCOLOR project](introduction/acolor-bluerov2.md)
+* [Issues and Goals](introduction/issues-and-goals.md)
 
 ## BlueRov2 hardware
 
