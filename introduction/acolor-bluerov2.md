@@ -2,7 +2,11 @@
 description: written by Nathan Fourniol
 ---
 
-# The aCOLOR project
+# Issues and Goals
+
+## The aCOLOR project
+
+
 
 Autonomous robotic systems become more important in many industries. They started with the automation of basic tasks to lead currently to the automation of more and more elaborate ones. These robotic systems can provide a way to execute tasks faster and more safely than any human operator. In the context of a marine area, these tasks cover water exploration to underwater mining and inspection,  borderline guarding to search and rescue victim in water area. 
 
@@ -58,6 +62,8 @@ During this summer, from June to September, aCOLOR project hired four french stu
 * Arnaud Salles-Thomas from CESI Pau, France, Mechanical engineer student
 * Cyril Cotsaftis from ENSTA Bretagne, France, Robotic engineer student
 * I, Nathan Fourniol from ENSTA Bretagne, France, Robotic engineer student
+
+## Issues and Goals of this internship
 
 ## Work organization
 
