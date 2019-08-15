@@ -19,10 +19,11 @@
 * [Ros implementation](bluerov2-software/ros-implementation.md)
 * [Command law](bluerov2-software/command-law.md)
 * [GUI](bluerov2-software/gui.md)
-* [Untitled](bluerov2-software/untitled.md)
+* [IMU](bluerov2-software/untitled.md)
 
 ## TEST REALISED
 
+* [test in the" pool"](test-realised/test-in-the-pool.md)
 * [First test at the lake with boat](test-realised/first-test-at-the-lake-with-boat.md)
 * [Law test and charts](test-realised/law-test-and-charts.md)
 
@@ -34,4 +35,8 @@
 
 * [Work done](conclusion/untitled.md)
 * [Further Work](conclusion/further-work.md)
+
+## BIBLIOGRAPHY
+
+* [Untitled](bibliography/untitled.md)
 
