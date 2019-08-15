@@ -1,2 +1,4 @@
-# AUV hardware
+# Components
+
+## Global Organisation
 

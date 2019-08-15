@@ -1,14 +1,14 @@
 # Table of contents
 
-* [Internship Finland 2019](README.md)
+* [Master Internship at Tampere University of Technology 2019](README.md)
 
 ## INTRODUCTION
 
-* [aColor-BlueRov2](introduction/acolor-bluerov2.md)
+* [The aCOLOR project](introduction/acolor-bluerov2.md)
 
 ## BlueRov2 hardware
 
-* [AUV hardware](bluerov2-hardware/untitled-1.md)
+* [Components](bluerov2-hardware/untitled-1.md)
 * [New frame for AUV](bluerov2-hardware/new-frame-for-auv.md)
 * [Launch and recovery systeme](bluerov2-hardware/launch-and-recovery-systeme.md)
 

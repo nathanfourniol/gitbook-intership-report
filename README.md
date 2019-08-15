@@ -1,2 +1,2 @@
-# Internship Finland 2019
+# Master Internship at Tampere University of Technology 2019
 
