@@ -7,11 +7,12 @@
 * [The aCOLOR project](introduction/acolor-bluerov2.md)
 * [Issues and Goals](introduction/issues-and-goals.md)
 
-## BlueRov2 hardware
+## BlueRov2 Presentation
 
-* [Components](bluerov2-hardware/untitled-1.md)
-* [New frame for AUV](bluerov2-hardware/new-frame-for-auv.md)
-* [Launch and recovery systeme](bluerov2-hardware/launch-and-recovery-systeme.md)
+* [General presentation](bluerov2-presentation/general-presentation.md)
+* [Components](bluerov2-presentation/untitled-1.md)
+* [New frame for AUV](bluerov2-presentation/new-frame-for-auv.md)
+* [Launch and recovery systeme](bluerov2-presentation/launch-and-recovery-systeme.md)
 
 ## BlueRov2 software
 
